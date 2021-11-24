@@ -1,2 +1,2 @@
 # Fushy
-A very bad game
+Thanks to Robin Mijten for providing the awesome music!
